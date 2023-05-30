@@ -17,6 +17,8 @@ Web Developer
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://www.prisma.io/" target="_blank" rel="noreferrer"><img src="prisma-svgrepo-com.svg" width="36" height="36" alt="Prisma" /></a>
+<a href="https://redis.io/" target="_blank" rel="noreferrer"><img src="redis-logo.svg" width="36" height="36" alt="Redis" /></a>
 </p>
 
 
