@@ -1,4 +1,4 @@
-Full Stack Web Developer
+Full Stack Developer
 ------------------------
 
 🌍  I'm based in Madrid (UTC +2) <br>
