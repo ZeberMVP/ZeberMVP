@@ -1,8 +1,7 @@
 Full Stack Developer
 ------------------------
 
-🌍  I'm based in Madrid (UTC +1) <br>
-🖥️  See my portfolio at [rubenzafra.com](http://rubenzafra.com)
+🌍  I'm based in Madrid (UTC +1)
 
 ### My Most Loved Technologies
 
